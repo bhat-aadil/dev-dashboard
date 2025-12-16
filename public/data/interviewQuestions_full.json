@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "Explain closures in JavaScript. (Q1)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q2)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q3)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q4)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q5)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q6)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q7)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q8)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q9)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q10)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q11)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q12)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q13)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q14)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q15)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q16)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q17)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q18)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q19)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q20)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q21)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q22)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q23)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q24)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q25)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q26)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q27)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q28)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q29)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q30)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q31)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q32)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q33)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q34)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q35)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q36)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q37)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q38)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q39)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q40)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q41)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q42)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q43)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q44)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q45)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q46)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q47)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q48)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q49)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q50)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q51)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q52)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q53)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q54)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q55)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q56)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q57)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q58)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q59)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q60)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q61)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q62)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q63)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q64)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q65)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q66)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q67)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q68)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q69)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q70)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q71)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q72)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q73)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q74)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q75)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q76)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q77)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q78)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q79)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q80)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q81)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q82)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q83)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q84)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q85)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q86)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q87)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q88)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q89)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q90)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q91)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q92)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q93)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q94)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q95)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q96)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q97)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q98)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q99)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q100)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q101)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q102)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q103)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q104)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q105)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q106)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q107)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q108)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q109)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q110)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q111)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q112)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q113)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q114)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q115)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q116)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q117)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q118)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q119)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q120)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q121)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q122)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q123)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q124)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q125)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q126)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q127)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q128)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q129)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q130)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q131)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q132)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q133)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q134)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q135)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q136)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q137)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q138)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q139)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q140)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  },
+  {
+    "question": "Explain closures in JavaScript. (Q141)",
+    "category": "JavaScript",
+    "answer": "A closure is a function that remembers its lexical scope even when executed outside of its original scope. This allows inner functions to access variables of outer functions.",
+    "hint": "Think of functions carrying their scope with them.",
+    "resources": [
+      {
+        "title": "MDN Closures",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of useEffect in React? (Q142)",
+    "category": "React",
+    "answer": "useEffect allows you to perform side effects in functional components, like data fetching, subscriptions, or manually changing the DOM. By default it runs after every render, but dependencies can control when it runs.",
+    "hint": "Used for side effects in React functional components.",
+    "resources": [
+      {
+        "title": "React useEffect Docs",
+        "url": "https://react.dev/reference/react/useEffect"
+      }
+    ]
+  },
+  {
+    "question": "What is Big-O notation and why is it important? (Q143)",
+    "category": "Algorithms",
+    "answer": "Big-O notation describes the time or space complexity of an algorithm in terms of input size, helping developers analyze scalability and efficiency.",
+    "hint": "It's about performance and scalability.",
+    "resources": [
+      {
+        "title": "Big-O Cheatsheet",
+        "url": "https://www.bigocheatsheet.com/"
+      }
+    ]
+  },
+  {
+    "question": "What happens when you type a URL into a browser and press Enter? (Q144)",
+    "category": "System Design",
+    "answer": "The browser performs a DNS lookup, establishes a TCP connection, negotiates TLS if HTTPS, sends an HTTP request, gets the response, and then parses/render the HTML, CSS, and JS.",
+    "hint": "Think DNS \u2192 TCP \u2192 TLS \u2192 HTTP \u2192 Render.",
+    "resources": [
+      {
+        "title": "What happens when",
+        "url": "https://github.com/alex/what-happens-when"
+      }
+    ]
+  },
+  {
+    "question": "What are the differences between SQL and NoSQL databases? (Q145)",
+    "category": "Databases",
+    "answer": "SQL databases are relational, use structured schemas, and ACID transactions. NoSQL databases are non-relational, often schema-less, and designed for horizontal scalability.",
+    "hint": "Relational vs non-relational.",
+    "resources": [
+      {
+        "title": "SQL vs NoSQL",
+        "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+      }
+    ]
+  },
+  {
+    "question": "What is a race condition and how can you prevent it? (Q146)",
+    "category": "Concurrency",
+    "answer": "A race condition happens when multiple processes or threads access shared data concurrently and the outcome depends on the timing. Prevent it using locks, synchronization, or atomic operations.",
+    "hint": "It happens with concurrent access to shared data.",
+    "resources": [
+      {
+        "title": "Race Condition",
+        "url": "https://en.wikipedia.org/wiki/Race_condition"
+      }
+    ]
+  },
+  {
+    "question": "What is Docker and how does it differ from a virtual machine? (Q147)",
+    "category": "DevOps",
+    "answer": "Docker is a containerization platform that packages applications and dependencies in lightweight containers that share the host OS kernel. VMs virtualize the hardware and run full guest OS instances.",
+    "hint": "Containers vs virtual machines.",
+    "resources": [
+      {
+        "title": "Docker vs VM",
+        "url": "https://www.docker.com/resources/what-container/"
+      }
+    ]
+  },
+  {
+    "question": "Explain event delegation in JavaScript. (Q148)",
+    "category": "JavaScript",
+    "answer": "Event delegation is a pattern where a single event listener is added to a parent element to handle events on its children using event bubbling. It's efficient for dynamic content.",
+    "hint": "Uses bubbling to reduce event listeners.",
+    "resources": [
+      {
+        "title": "Event Delegation",
+        "url": "https://javascript.info/event-delegation"
+      }
+    ]
+  },
+  {
+    "question": "What are microservices and their advantages? (Q149)",
+    "category": "System Design",
+    "answer": "Microservices is an architecture style where applications are composed of small, independent services communicating over APIs. Advantages: scalability, flexibility in tech stack, easier deployment, fault isolation.",
+    "hint": "Breaking monoliths into small services.",
+    "resources": [
+      {
+        "title": "Microservices Guide",
+        "url": "https://microservices.io/"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between var, let, and const in JavaScript? (Q150)",
+    "category": "JavaScript",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and cannot be redeclared in the same scope, and const is block-scoped and must be assigned at declaration, and it cannot be reassigned.",
+    "hint": "Scope and mutability differ.",
+    "resources": [
+      {
+        "title": "MDN var let const",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+      }
+    ]
+  }
+]

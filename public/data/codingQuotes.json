@@ -1,0 +1,1202 @@
+[
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v1)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v1)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v1)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v1)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v1)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v1)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v1)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v1)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v1)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v1)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v2)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v2)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v2)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v2)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v2)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v2)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v2)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v2)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v2)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v2)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v3)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v3)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v3)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v3)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v3)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v3)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v3)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v3)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v3)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v3)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v4)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v4)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v4)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v4)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v4)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v4)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v4)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v4)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v4)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v4)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v5)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v5)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v5)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v5)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v5)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v5)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v5)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v5)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v5)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v5)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v6)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v6)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v6)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v6)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v6)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v6)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v6)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v6)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v6)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v6)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v7)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v7)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v7)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v7)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v7)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v7)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v7)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v7)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v7)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v7)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v8)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v8)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v8)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v8)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v8)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v8)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v8)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v8)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v8)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v8)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v9)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v9)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v9)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v9)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v9)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v9)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v9)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v9)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v9)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v9)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v10)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v10)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v10)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v10)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v10)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v10)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v10)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v10)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v10)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v10)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v11)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v11)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v11)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v11)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v11)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v11)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v11)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v11)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v11)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v11)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v12)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v12)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v12)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v12)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v12)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v12)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v12)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v12)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v12)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v12)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v13)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v13)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v13)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v13)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v13)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v13)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v13)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v13)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v13)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v13)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v14)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v14)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v14)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v14)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v14)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v14)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v14)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v14)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v14)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v14)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v15)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v15)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v15)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v15)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v15)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v15)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v15)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v15)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v15)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v15)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v16)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v16)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v16)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v16)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v16)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v16)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v16)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v16)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v16)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v16)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v17)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v17)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v17)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v17)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v17)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v17)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v17)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v17)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v17)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v17)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v18)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v18)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v18)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v18)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v18)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v18)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v18)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v18)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v18)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v18)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v19)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v19)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v19)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v19)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v19)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v19)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v19)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v19)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v19)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v19)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v20)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v20)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v20)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v20)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v20)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v20)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v20)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v20)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v20)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v20)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v21)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v21)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v21)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v21)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v21)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v21)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v21)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v21)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v21)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v21)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v22)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v22)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v22)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v22)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v22)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v22)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v22)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v22)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v22)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v22)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v23)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v23)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v23)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v23)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v23)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v23)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v23)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v23)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v23)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v23)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v24)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v24)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v24)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v24)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v24)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v24)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v24)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v24)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v24)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v24)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v25)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v25)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v25)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v25)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v25)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v25)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v25)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v25)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v25)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v25)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v26)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v26)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v26)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v26)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v26)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v26)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v26)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v26)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v26)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v26)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v27)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v27)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v27)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v27)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v27)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v27)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v27)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v27)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v27)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v27)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v28)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v28)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v28)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v28)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v28)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v28)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v28)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v28)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v28)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v28)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v29)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v29)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v29)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v29)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v29)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v29)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v29)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v29)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v29)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v29)"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Simplicity is prerequisite for reliability. (v30)"
+  },
+  {
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code. (v30)"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.' (v30)"
+  },
+  {
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil. (v30)"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off. (v30)"
+  },
+  {
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show. (v30)"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "One of my most productive days was throwing away 1,000 lines of code. (v30)"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (v30)"
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Everybody should learn to program a computer, because it teaches you how to think. (v30)"
+  },
+  {
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (v30)"
+  }
+]

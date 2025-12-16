@@ -1,0 +1,3602 @@
+[
+  {
+    "question": "Which CSS property controls text size? (Q1)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q2)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q3)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q4)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q5)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q6)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q7)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q8)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What does React's useMemo hook do? (Q9)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "Memoizes expensive calculations",
+      "Stores mutable values",
+      "Runs side effects",
+      "Caches API requests"
+    ],
+    "answer": "Memoizes expensive calculations"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q10)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q11)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q12)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q13)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q14)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q15)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q16)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q17)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q18)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q19)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q20)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q21)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q22)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q23)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q24)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q25)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q26)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q27)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q28)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What is React Suspense used for? (Q29)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q30)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q31)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q32)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What is React Suspense used for? (Q33)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q34)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q35)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q36)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q37)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q38)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q39)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q40)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q41)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q42)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q43)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q44)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "What does the optional chaining operator (?.) do in JavaScript? (Q45)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Checks if a value exists before accessing a property",
+      "Chains multiple promises",
+      "Used for method chaining",
+      "Handles asynchronous code"
+    ],
+    "answer": "Checks if a value exists before accessing a property"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q46)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q47)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q48)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q49)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q50)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q51)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q52)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q53)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is React Suspense used for? (Q54)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What does React's useMemo hook do? (Q55)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "Memoizes expensive calculations",
+      "Stores mutable values",
+      "Runs side effects",
+      "Caches API requests"
+    ],
+    "answer": "Memoizes expensive calculations"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q56)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q57)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q58)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q59)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What does the optional chaining operator (?.) do in JavaScript? (Q60)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Checks if a value exists before accessing a property",
+      "Chains multiple promises",
+      "Used for method chaining",
+      "Handles asynchronous code"
+    ],
+    "answer": "Checks if a value exists before accessing a property"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q61)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What is React Suspense used for? (Q62)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q63)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q64)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q65)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q66)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q67)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q68)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q69)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q70)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q71)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q72)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q73)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What does React's useMemo hook do? (Q74)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "Memoizes expensive calculations",
+      "Stores mutable values",
+      "Runs side effects",
+      "Caches API requests"
+    ],
+    "answer": "Memoizes expensive calculations"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q75)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What is React Suspense used for? (Q76)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q77)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q78)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q79)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q80)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q81)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q82)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q83)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q84)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q85)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q86)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q87)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q88)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q89)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q90)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q91)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q92)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q93)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q94)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q95)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q96)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q97)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q98)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q99)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q100)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What does React's useMemo hook do? (Q101)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "Memoizes expensive calculations",
+      "Stores mutable values",
+      "Runs side effects",
+      "Caches API requests"
+    ],
+    "answer": "Memoizes expensive calculations"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q102)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q103)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q104)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q105)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q106)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q107)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q108)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q109)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q110)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q111)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q112)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q113)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q114)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q115)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q116)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q117)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q118)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q119)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q120)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q121)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q122)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q123)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What does React's useMemo hook do? (Q124)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "Memoizes expensive calculations",
+      "Stores mutable values",
+      "Runs side effects",
+      "Caches API requests"
+    ],
+    "answer": "Memoizes expensive calculations"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q125)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q126)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q127)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q128)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q129)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What is React Suspense used for? (Q130)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What is React Suspense used for? (Q131)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q132)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What is React Suspense used for? (Q133)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q134)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q135)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What does React's useMemo hook do? (Q136)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "Memoizes expensive calculations",
+      "Stores mutable values",
+      "Runs side effects",
+      "Caches API requests"
+    ],
+    "answer": "Memoizes expensive calculations"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q137)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q138)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q139)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q140)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q141)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q142)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q143)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q144)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q145)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q146)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q147)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q148)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q149)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q150)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q151)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q152)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q153)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q154)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q155)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q156)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q157)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q158)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q159)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What is React Suspense used for? (Q160)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q161)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q162)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q163)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q164)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q165)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q166)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q167)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q168)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q169)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q170)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q171)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q172)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q173)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q174)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q175)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q176)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q177)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q178)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q179)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q180)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q181)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q182)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q183)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q184)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q185)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q186)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What is React Suspense used for? (Q187)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q188)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q189)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q190)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q191)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q192)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q193)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q194)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q195)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q196)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q197)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q198)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q199)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q200)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q201)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q202)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q203)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q204)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q205)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q206)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q207)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q208)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q209)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What is React Suspense used for? (Q210)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q211)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What does the optional chaining operator (?.) do in JavaScript? (Q212)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Checks if a value exists before accessing a property",
+      "Chains multiple promises",
+      "Used for method chaining",
+      "Handles asynchronous code"
+    ],
+    "answer": "Checks if a value exists before accessing a property"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q213)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q214)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q215)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What is React Suspense used for? (Q216)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q217)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q218)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q219)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "What is React Suspense used for? (Q220)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What does the optional chaining operator (?.) do in JavaScript? (Q221)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Checks if a value exists before accessing a property",
+      "Chains multiple promises",
+      "Used for method chaining",
+      "Handles asynchronous code"
+    ],
+    "answer": "Checks if a value exists before accessing a property"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q222)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q223)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q224)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q225)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q226)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What does React's useMemo hook do? (Q227)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "Memoizes expensive calculations",
+      "Stores mutable values",
+      "Runs side effects",
+      "Caches API requests"
+    ],
+    "answer": "Memoizes expensive calculations"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q228)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q229)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q230)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q231)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What hook is used to manage state in a React functional component? (Q232)",
+    "category": "React",
+    "difficulty": "Easy",
+    "choices": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q233)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q234)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What does the optional chaining operator (?.) do in JavaScript? (Q235)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Checks if a value exists before accessing a property",
+      "Chains multiple promises",
+      "Used for method chaining",
+      "Handles asynchronous code"
+    ],
+    "answer": "Checks if a value exists before accessing a property"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q236)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What does React's useMemo hook do? (Q237)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "Memoizes expensive calculations",
+      "Stores mutable values",
+      "Runs side effects",
+      "Caches API requests"
+    ],
+    "answer": "Memoizes expensive calculations"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q238)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q239)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q240)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q241)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q242)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q243)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q244)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q245)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q246)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What does the optional chaining operator (?.) do in JavaScript? (Q247)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Checks if a value exists before accessing a property",
+      "Chains multiple promises",
+      "Used for method chaining",
+      "Handles asynchronous code"
+    ],
+    "answer": "Checks if a value exists before accessing a property"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q248)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q249)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q250)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q251)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q252)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q253)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q254)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q255)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q256)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What does the optional chaining operator (?.) do in JavaScript? (Q257)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Checks if a value exists before accessing a property",
+      "Chains multiple promises",
+      "Used for method chaining",
+      "Handles asynchronous code"
+    ],
+    "answer": "Checks if a value exists before accessing a property"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q258)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q259)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "What does React's useMemo hook do? (Q260)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "Memoizes expensive calculations",
+      "Stores mutable values",
+      "Runs side effects",
+      "Caches API requests"
+    ],
+    "answer": "Memoizes expensive calculations"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q261)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What does the optional chaining operator (?.) do in JavaScript? (Q262)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Checks if a value exists before accessing a property",
+      "Chains multiple promises",
+      "Used for method chaining",
+      "Handles asynchronous code"
+    ],
+    "answer": "Checks if a value exists before accessing a property"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q263)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "What is tree shaking in modern JavaScript bundlers? (Q264)",
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "choices": [
+      "Removing unused code during bundling",
+      "Minifying code for smaller size",
+      "Organizing imports into trees",
+      "A way of testing DOM elements"
+    ],
+    "answer": "Removing unused code during bundling"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q265)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q266)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What is the purpose of the `defer` attribute in the `<script>` tag? (Q267)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Defers script execution until after HTML is parsed",
+      "Loads script asynchronously",
+      "Executes script immediately",
+      "Ignores script"
+    ],
+    "answer": "Defers script execution until after HTML is parsed"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q268)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q269)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What is React Suspense used for? (Q270)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q271)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q272)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q273)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "What is the purpose of Python's GIL (Global Interpreter Lock)? (Q274)",
+    "category": "Python",
+    "difficulty": "Hard",
+    "choices": [
+      "To ensure only one thread executes Python bytecode at a time",
+      "To prevent memory leaks",
+      "To improve multiprocessing",
+      "To allow true parallelism"
+    ],
+    "answer": "To ensure only one thread executes Python bytecode at a time"
+  },
+  {
+    "question": "What problem does React Fiber solve? (Q275)",
+    "category": "React",
+    "difficulty": "Hard",
+    "choices": [
+      "Efficient reconciliation and rendering",
+      "State management",
+      "Server-side rendering",
+      "Styling components"
+    ],
+    "answer": "Efficient reconciliation and rendering"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q276)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q277)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q278)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "Which Python module is most commonly used for working with JSON data? (Q279)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "pickle",
+      "json",
+      "os",
+      "re"
+    ],
+    "answer": "json"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q280)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q281)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "Which CSS layout uses rows and columns to align elements? (Q282)",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Table",
+      "Block"
+    ],
+    "answer": "Grid"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q283)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q284)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q285)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What is React Suspense used for? (Q286)",
+    "category": "React",
+    "difficulty": "Medium",
+    "choices": [
+      "For lazy loading components and data fetching",
+      "For handling errors",
+      "For managing styles",
+      "For routing"
+    ],
+    "answer": "For lazy loading components and data fetching"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q287)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q288)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which HTML element is used to define important text? (Q289)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "<strong>",
+      "<em>",
+      "<b>",
+      "<mark>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q290)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which JavaScript feature allows asynchronous code to be written in a synchronous style? (Q291)",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "choices": [
+      "Promises",
+      "Async/Await",
+      "Generators",
+      "Callbacks"
+    ],
+    "answer": "Async/Await"
+  },
+  {
+    "question": "What does the `<canvas>` element in HTML do? (Q292)",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "choices": [
+      "Displays vector graphics",
+      "Used for 2D drawing via scripting",
+      "Embeds 3D objects",
+      "Displays images only"
+    ],
+    "answer": "Used for 2D drawing via scripting"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q293)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "Which CSS property controls text size? (Q294)",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q295)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What is a semantic HTML element? (Q296)",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "choices": [
+      "An element that clearly describes its meaning",
+      "Any tag with attributes",
+      "Only header and footer",
+      "Elements with CSS applied"
+    ],
+    "answer": "An element that clearly describes its meaning"
+  },
+  {
+    "question": "What is the output of `len(set([1,1,2,3]))` in Python? (Q297)",
+    "category": "Python",
+    "difficulty": "Easy",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What will `console.log(typeof NaN)` output in JavaScript? (Q298)",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "choices": [
+      "NaN",
+      "undefined",
+      "number",
+      "object"
+    ],
+    "answer": "number"
+  },
+  {
+    "question": "What are Python decorators primarily used for? (Q299)",
+    "category": "Python",
+    "difficulty": "Medium",
+    "choices": [
+      "Wrapping a function to extend its behavior",
+      "Optimizing loops",
+      "Handling exceptions",
+      "Defining classes"
+    ],
+    "answer": "Wrapping a function to extend its behavior"
+  },
+  {
+    "question": "What does the CSS `will-change` property do? (Q300)",
+    "category": "CSS",
+    "difficulty": "Hard",
+    "choices": [
+      "Hints the browser about expected changes for optimization",
+      "Forces repainting of elements",
+      "Preloads animations",
+      "Changes element styles instantly"
+    ],
+    "answer": "Hints the browser about expected changes for optimization"
+  }
+]
